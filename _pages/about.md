@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Nitish Vikas Deshpande, senior undergraduate student, Electrical Engineering, IIT Kanpur.
+I am Nitish Vikas Deshpande, Senior Undergraduate Student, Electrical Engineering, IIT Kanpur.
+My research interests include analysis and design of wireless communication systems using tools from stochastic geometry and optimization theory.
 
 
 

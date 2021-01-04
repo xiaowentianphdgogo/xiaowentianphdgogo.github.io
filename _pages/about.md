@@ -9,7 +9,8 @@ redirect_from:
 ---
 # About Me
 * I'm Nitish Vikas Deshpande, senior undergraduate student in [Electrical Engineering](https://www.iitk.ac.in/ee/) at [Indian Institute of Technology, Kanpur](http://iitk.ac.in/).
-* My research interests include analysis and design of wireless communication systems using tools from <b>stochastic geometry</b> and optimization theory.
+* My research interests include analysis and design of wireless communication systems using tools from <b>stochastic geometry</b> and <b>optimization theory</b>.
+* My current topics of research include <b> Intelligent Reflecting Surfaces aided wireless communication </b> and <b>Heterogeneous Cellular Networks modeled using Poisson Cluster Process </b>.
 
 News and Updates
 ---

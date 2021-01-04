@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "CVX toolbox in MATLAB"
 collection: talks
-type: ""
+type: "Talk"
 permalink: /talks/matlabcvx
 venue: "Virtual"
-date: "Jan 2021"
+date: "13th Jan 2021"
 location: ""
 ---
 

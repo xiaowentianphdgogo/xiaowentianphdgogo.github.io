@@ -15,3 +15,8 @@ author_profile: true
 <b>Nitish Vikas Deshpande</b>, S. Dey, D. Amudala, E. Sharma and R. Budhiraja
 <i> submitted to 2021 IEEE International Conference on Communications (ICC): Wireless Communications Symposium,  Montreal, Canada.</i>
 
+<br>
+<b>[Unsupervised Abnormality Detection in Drones with Extended Isolation Forest and Excess Mass Curve]()</b> <br> 
+<b>Nitish Vikas Deshpande</b>, A. Rao, A. Banerjee and V. Arora
+<i> submitted to 2021 IEEE International Conference on Acoustics, Speech and Signal Processing,  Toronto, Ontario, Canada.</i>
+

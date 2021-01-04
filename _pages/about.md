@@ -23,7 +23,7 @@ News and Updates
 - [Oct 2020] Paper on <b>Analysis of Full-Duplex Spatially-Correlated IRS-Aided Massive MIMO Multi-User System</b> submitted to [ICC 2021](https://icc2021.ieee-icc.org/).
 - [Oct 2020] Paper on <b>Unsupervised Abnormality Detection in Drones with Extended Isolation Forest and Excess Mass Curve</b> submitted to [ICASSP 2021](https://2021.ieeeicassp.org/).
 - [May 2020] Our team secured 6th rank in 1st phase of [IEEE ICASSP Signal Processing Cup 2020 Challenge](https://signalprocessingsociety.org/community-involvement/signal-processing-cup) for the problem statement on <b>Unsupervised abnormality detection by using intelligent and heterogeneous autonomous systems</b>.
-- [March 2020] Hosted a podcast on <b>5G and Beyond</b>(https://open.spotify.com/episode/0a8rkLWMJcPtgXcECi5ydZ) with Soumyadeep Dutta and Suraj Hanchinal.
+- [March 2020] Hosted a podcast on [5G and Beyond](https://open.spotify.com/episode/0a8rkLWMJcPtgXcECi5ydZ) with Soumyadeep Dutta and Suraj Hanchinal.
 
 ### 2019
 - [Dec 2019] Our team won Silver Medal in <b>8TH INTER IIT Tech MEET</b> at IIT Roorkee for the problem statement on <b>Psycho-graphic profile capture</b>.

@@ -30,6 +30,9 @@ News and Updates
 - [Dec 2019] Talk on [Machine Learning for Signal Processing](https://www.youtube.com/watch?v=fkxj0vvyVkQ&list=PLdHeUylJU9qal-TAtZuMYxvCOXbQ_ltSx) for winter camp organized by [Electronics Club, IIT Kanpur](http://students.iitk.ac.in/eclub/).
 - [July 2019] Presented poster on [Score Following: Audio to Score Alignment](https://drive.google.com/file/d/15i7BGsecn2-GQipzNNmWyL83HECkRBFI/view?usp=sharing) for the [SURGE 2019 program](http://surge.iitk.ac.in/) at IIT Kanpur.
 
+### 2018
+- [Dec 2018] Our team won Silver Medal in <b>7th INTER IIT Tech MEET</b> at IIT Bombay for the problem statement on <b>Television Audience Measurement</b>
+
 
 
 

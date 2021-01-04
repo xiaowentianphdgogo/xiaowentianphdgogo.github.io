@@ -3,8 +3,8 @@ title: "Spectral Efficiency in Poisson Cluster Based HetNets with Users-Basestat
 collection: talks
 type: "Talk"
 permalink: /talks/ants20
-venue: ""
-date: 
+venue: "Virtual Conference"
+date: "16th Dec 2020"
 location: ""
 ---
 

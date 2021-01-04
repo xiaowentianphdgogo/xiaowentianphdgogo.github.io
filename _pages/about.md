@@ -28,6 +28,8 @@ News and Updates
 ### 2019
 - [Dec 2019] Our team won Silver Medal in <b>8TH INTER IIT Tech MEET</b> at IIT Roorkee for the problem statement on <b>Psycho-graphic profile capture</b>.
 - [Dec 2019] Talk on [Machine Learning for Signal Processing](https://www.youtube.com/watch?v=fkxj0vvyVkQ&list=PLdHeUylJU9qal-TAtZuMYxvCOXbQ_ltSx) for winter camp organized by [Electronics Club, IIT Kanpur](http://students.iitk.ac.in/eclub/).
+- [July 2019] Presented poster on [Score Following: Audio to Score Alignment](https://drive.google.com/file/d/15i7BGsecn2-GQipzNNmWyL83HECkRBFI/view?usp=sharing) for the [SURGE 2019 program](http://surge.iitk.ac.in/) at IIT Kanpur.
+
 
 
 

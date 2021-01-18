@@ -15,7 +15,7 @@ redirect_from:
 News and Updates
 ---
 ### 2021
-- [Jan 2021] Upcoming talk on MATLAB CVX toolbox for solving convex optimization problems organized by PG Academics and Career Council. Live video will be available on [YouTube](https://youtu.be/zUPTQn8x5tE).
+- [Jan 2021] Talk on MATLAB CVX toolbox for solving convex optimization problems organized by PG Academics and Career Council. Video  available on [YouTube](https://www.youtube.com/watch?v=06b5cdZJXCg&feature=youtu.be).
 
 ### 2020
 - [Dec 2020] Presented paper on [Spectral Efficiency in Poisson Cluster Based HetNets with Users-Basestations Correlation](https://drive.google.com/file/d/16UYD-Iy7JOC6-DGs4FmfgTKbGznaHKz6/view?usp=sharing) accepted at Virtual [IEEE ANTS 2020](https://ants2020.ieee-comsoc-ants.org/). This is the [video presentation](https://youtu.be/NCpxoyj0FKc).

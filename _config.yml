@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nitish Vikas Deshpande"
 title_separator          : "-"
 name                     : &name "Nitish Vikas Deshpande"
-description              : &description "Senior Undergraduate Student at Electrical Engineering, IIT Kanpur"
+description              : &description "Graduate Student at Electrical Engineering, NC State University"
 url                      : https://nitishvikasdeshpande.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nitishvikasdeshpande.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nitish Vikas Deshpande"
   avatar           : "profile.png"
-  bio              : "Senior Undergraduate Student | Electrical Engineering, IIT Kanpur"
-  location         : "IIT Kanpur, Kanpur, India"
+  bio              : "Ph.D. Student | Electrical Engineering, NC State University"
+  location         : "NC State University, Raleigh, North Carolina"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "nitishvd@iitk.ac.in"
+  email            : "nvdeshpa@ncsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nitish Vikas Deshpande"
+title                    : "Xiaowen Tian"
 title_separator          : "-"
-name                     : &name "Nitish Vikas Deshpande"
-description              : &description "Graduate Student at Electrical Engineering, NC State University"
-url                      : https://nitishvikasdeshpande.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xiaowen Tian"
+description              : &description "Electrical Engineering, NC State University"
+url                      : https://xiaowentianphdgogo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nitishvikasdeshpande.github.io"
+repository               : "xiaowentianphdgogo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nitish Vikas Deshpande"
+  name             : "Xiaowen Tian"
   avatar           : "profile.png"
   bio              : "Ph.D. Student | Electrical Engineering, NC State University"
-  location         : "NC State University, Raleigh, North Carolina"
+  location         : "Raleigh, North Carolina"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "nvdeshpa@ncsu.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=IYG_zSkAAAAJ"
+  email            : "xtian8@ncsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,16 +96,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "NitishVikasDeshpande"
+  github           : "xiaowentianphdgogo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : 
   pinterest        :
-  skype            : "live:nitish250699"
+  skype            : 
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
@@ -245,6 +245,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      
+  # _research projects
+  - scope:
+      path: ""
+      type: research projects
+    values:
+      layout: research projects
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -256,7 +265,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

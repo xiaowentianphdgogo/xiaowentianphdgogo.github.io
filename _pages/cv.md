@@ -27,7 +27,6 @@ redirect_from:
 - 2017 excellent graduate student of Dalian University of Technology (6/79)
 
 
-{% include base_path %} 
-The PDF version of my resume can be found [here](https://drive.google.com/drive/u/1/my-drive)
-{:target="_blank"}.
+#### The full PDF version of my CV can be found [here](https://drive.google.com/drive/u/1/my-drive).
+
 

@@ -26,5 +26,8 @@ redirect_from:
 - 2017 national scholarship of graduate student (2/79)
 - 2017 excellent graduate student of Dalian University of Technology (6/79)
 
-## Pulications
+
+{% include base_path %} 
+The PDF version of my resume can be found [here](https://drive.google.com/drive/u/1/my-drive)
+{:target="_blank"}.
 

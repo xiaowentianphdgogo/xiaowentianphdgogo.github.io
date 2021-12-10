@@ -10,9 +10,9 @@ redirect_from:
 
 ## Education
 
-- Ph.D in Electrical Engineering, North Carolina University, 2021 - present
-- M.S. in Information and Communication Engineering, Dalian University of Technology, 2016 - 2019
-- B.S. in Electronics and Information Engineering (English Intensive), Dalian University of Technology, 2012 - 2016
+- Ph.D. in Electrical Engineering, North Carolina University, 2021 - present.
+- M.S. in Information and Communication Engineering, Dalian University of Technology, 2016 - 2019.
+- B.S. in Electronics and Information Engineering (English Intensive), Dalian University of Technology, 2012 - 2016.
 
 
 ## Service to Scientific Community
@@ -23,8 +23,8 @@ redirect_from:
 
 ## Awards
 
-- 2017 national scholarship of graduate student (2/79)
-- 2017 excellent graduate student of Dalian University of Technology (6/79)
+- 2017 national scholarship of graduate student (2/79).
+- 2017 excellent graduate student of Dalian University of Technology (6/79).
 
 
 #### The full PDF version of my CV can be found [here](https://drive.google.com/drive/u/1/my-drive).

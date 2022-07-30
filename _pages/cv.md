@@ -19,7 +19,7 @@ redirect_from:
 ## Service to Scientific Community
 
 - Reviewer for IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, IEEE Signal Processing Letters, IEEE Wireless Communications Letters, IEEE Communications Letters, IEEE System Journal and IEEE Access.
-- Reviewer for WCNC 2018, 2019, 2021, 2022, ICC 2020, 2021, Globecom 2020, and Infocom 2021.
+- Reviewer for WCNC 2018, 2019, 2021, 2022, ICC 2020, 2021, Globecom 2020, Asilomar 2022, and Infocom 2021.
 
 
 ## Awards

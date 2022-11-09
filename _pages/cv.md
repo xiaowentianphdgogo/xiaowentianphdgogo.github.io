@@ -15,11 +15,14 @@ redirect_from:
 - M.S. in Information and Communication Engineering, Dalian University of Technology, Dalian, China, 2016 - 2019.
 - B.S. in Electronics and Information Engineering (English Intensive), Dalian University of Technology, Dalian, China, 2012 - 2016.
 
+## Internship
+
+- Research Intern in Samsung Research America, Plano, TX, May 2022 - Aug. 2022.
 
 ## Service to Scientific Community
 
 - Reviewer for IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, IEEE Signal Processing Letters, IEEE Wireless Communications Letters, IEEE Communications Letters, IEEE System Journal and IEEE Access.
-- Reviewer for WCNC 2018, 2019, 2021, 2022, ICC 2020, 2021, Globecom 2020, Asilomar 2022, and Infocom 2021.
+- Reviewer for WCNC, ICC, Globecom, Asilomar, and Infocom.
 
 
 ## Awards
@@ -28,6 +31,6 @@ redirect_from:
 - 2017 excellent graduate student of Dalian University of Technology .
 
 
-#### The full PDF version of my CV can be found [here](https://drive.google.com/file/d/12KwYWDDeIc5tlJtBFQ1PoHf5O6WA1ewK/view?usp=sharing).
+#### The full PDF version of my CV can be found [here](https://drive.google.com/file/d/1lKJYBhtPVKdOb7ycSZM9ynQsJfkFymVK/view?usp=share_link).
 
 

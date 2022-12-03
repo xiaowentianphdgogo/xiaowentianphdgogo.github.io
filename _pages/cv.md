@@ -31,6 +31,4 @@ redirect_from:
 - 2017 excellent graduate student of Dalian University of Technology .
 
 
-#### The full PDF version of my CV can be found [here](https://drive.google.com/file/d/1fRIIlaWcCmvWYMu3ivmsWdu1DmC3m_BC/view?usp=share_link).
-
-
+#### The full PDF version of my CV can be found [here](https://drive.google.com/file/d/1ZdlsKQb439SOwmyGEdhGvDxLaKyVXFrZ/view?usp=share_link).

@@ -38,7 +38,6 @@ With sub-THz frequencies, the links are easy to be blocked. The reconfigurable i
 Millimeter wave channels are sparse, but Alice, Bob, and Eve may share some common scatters, which makes eavesdropping easier. However, such a special structure in the channel can also be exploited to null the signals transmitted through those common scatters to avoid eavesdropping.
 
 - Xiaowen Tian, Z. Wang, M. Li, and Q. Liu, “[Secure hybrid beamformings design in mmWave MIMO wiretap systems](https://ieeexplore.ieee.org/document/8758418),” *IEEE Systems Journal*, vol. 14, no. 1, pp. 548-559, Mar. 2020.
-- Xiaowen Tian, M. Li, Z. Wang, and Q. Liu, “[Hybrid precoder and combiner design for secure transmission in mmWave MIMO systems](https://ieeexplore-ieee-org.prox.lib.ncsu.edu/document/8254019),” in *Proc. IEEE Globecom*, Singapore, Dec. 2017.
 
 
 ### Pilot Spoofing Detection and Secure Transmission

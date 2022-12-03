@@ -23,7 +23,7 @@ About Me
 
 With sub-THz frequencies, the links are easy to be blocked. The reconfigurable intelligent surfaces (RISs) can create additional non-line-of-sight (NLoS) links to overcome the blockage issue. However, large scale RISs are needed to meet the link budget, which makes the RISs electrically large and working in the near field mode. Far field configuration will cause a severe gain loss in this scenario, so we propose to configure and deploy the RIS smartly under the near field model.
 
-- Xiaowen Tian, N. Gonzalez-Prelcic, and R. W. Heath Jr, “Optimizing the deployment of reconfigurable intelligent surfaces in mmWave vehicular systems,” in *Proc. IEEE GLOBECOM*, Rio de Janeiro, Brazil, Dec. 2022.
+- Xiaowen Tian, N. Gonzalez-Prelcic, and R. W. Heath Jr, “[Optimizing the deployment of reconfigurable intelligent surfaces in mmWave vehicular systems](https://arxiv.org/pdf/2205.15520.pdf),” in *Proc. IEEE GLOBECOM*, Rio de Janeiro, Brazil, Dec. 2022.
 
 
 ### Machine Learning-Assisted Codebook Design for Channel Estimation

@@ -23,7 +23,7 @@ About Me
 
 Minimum mean-square error (MMSE) filters are applied for channel estimation which requires second-order statistics. However, they are not easy to acquire in practice. We found that auto-correlation functions (ACFs) are related to MMSE filters and channel parameters. Thus, with the assumption that similar channels can use one representative codeword for channel estimation, we proposed to design such a codebook to reduce the complexity during channel estimation.
 
-- Xiaowen Tian, Y. Hu, Y. Li, T. Wang, and J. Zhang, “Machine learning-assisted codebook design for channel estimation weights,” submitted to *Proc. IEEE ICC*, 2023.
+- Xiaowen Tian, Y. Hu, Y. Li, T. Wang, and J. Zhang, “Machine learning-assisted codebook design for channel estimation weights,” in *Proc. IEEE ICC Workshop*, Rome, Italy, May 2023.
 
 
 ### Reconfigurable Intelligent Surface Configuration and Deployment under Near Field Model

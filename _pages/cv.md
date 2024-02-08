@@ -17,18 +17,18 @@ redirect_from:
 
 ## Internship
 
-- Research Intern in Samsung Research America, Plano, TX, May 2022 - Aug. 2022.
+- Research Intern in Samsung Research America, Plano, TX, May 2022 - Aug. 2022, May 2023 - Aug. 2023.
 
 ## Service to Scientific Community
 
-- Reviewer for IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, IEEE Signal Processing Letters, IEEE Wireless Communications Letters, IEEE Communications Letters, IEEE System Journal and IEEE Access.
+- Reviewer for IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, IEEE Signal Processing Letters, IEEE Wireless Communications Letters, IEEE Communications Letters, IEEE System Journal, IEEE Access, and IEEE Communications Magazine.
 - Reviewer for WCNC, ICC, Globecom, Asilomar, and Infocom.
 
 
 ## Awards
 
-- 2017 national scholarship of graduate student.
-- 2017 excellent graduate student of Dalian University of Technology .
+- 2017 National Scholarship of graduate student.
+- 2017 excellent graduate student of Dalian University of Technology.
 
 
 #### The full PDF version of my CV can be found [here](https://drive.google.com/file/d/1ZdlsKQb439SOwmyGEdhGvDxLaKyVXFrZ/view?usp=share_link).

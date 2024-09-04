@@ -12,7 +12,7 @@ redirect_from:
 About Me
 ======
 
-* I'm Xiaowen Tian, a third-year Ph.D. student in [Electrical Engineering](https://ece.ncsu.edu/) at NC State University.
+* I'm Xiaowen Tian, a fourth-year Ph.D. student in [Electrical Engineering](https://ece.ncsu.edu/) at NC State University.
 * I am working as a graduate research assistant at NC State under the guidance of Prof. Robert W. Heath Jr and Prof. Nuria Gonzalez-Prelcic.
 * My research interest is in signal processing techniques in wireless communication systems. I am currently working on near-field communications.
 
@@ -23,7 +23,7 @@ About Me
 
 Previous approaches to operate in the near field provide very focused beams, which can only illuminate a small region around the target user. Therefore, this near field beamfocusing configuration is sensitive to location inaccuracy. It also increases the initial access time. We proposed a beamforming technique that has variable beamwidth by mapping the RIS elements to a tunable spherical surface and tuning the size and center of the surface.
 
-- Xiaowen Tian, N. Gonzalez-Prelcic, and R. W. Heath Jr, "Variable beamwidth near field codebook design for communications aided by a large scale RIS," in *Proc. IEEE GLOBECOM*, Kuala Lumpur, Malaysia, Dec. 2023.
+- Xiaowen Tian, N. Gonzalez-Prelcic, and R. W. Heath Jr, “[Variable beamwidth near field codebook design for communications aided by a large scale RIS](https://ieeexplore-ieee-org.prox.lib.ncsu.edu/document/10437101),” in *Proc. IEEE GLOBECOM*, Kuala Lumpur, Malaysia, Dec. 2023.
 
 ### Machine Learning-Assisted Codebook Design for Channel Estimation
 

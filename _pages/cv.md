@@ -17,7 +17,7 @@ redirect_from:
 
 ## Internship
 
-- Research Intern in Samsung Research America, Plano, TX, May 2022 - Aug. 2022, May 2023 - Aug. 2023.
+- Research Intern in Samsung Research America, Plano, TX, May 2024 - Aug. 2024, May 2023 - Aug. 2023, May 2022 - Aug. 2022.
 
 ## Service to Scientific Community
 

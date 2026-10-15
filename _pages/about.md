@@ -12,22 +12,28 @@ redirect_from:
 About Me
 ======
 
-* I'm Xiaowen Tian, a fourth-year Ph.D. student in [Electrical Engineering](https://ece.ncsu.edu/) at NC State University.
-* I am working as a graduate research assistant at NC State under the guidance of Prof. Robert W. Heath Jr and Prof. Nuria Gonzalez-Prelcic.
-* My research interest is in signal processing techniques in wireless communication systems. I am currently working on near-field communications.
+* I'm Xiaowen Tian, a Ph.D. student in [Electrical Engineering](https://ece.ncsu.edu/) at NC State University.
+* I am working under the guidance of Prof. [Suresh Venkatesh](https://ece.ncsu.edu/people/svenkat4/).
+* My research interest is in signal processing techniques in wireless communication systems. I am currently working on phased array calibration algorithms.
 
 
 ## Research Projects
 
+### Millimeter Wave Phased Array Calibration
+
+A large scale array without calibration could lead to severe consequences such as reduced main beam level, increased side beam level, pointing inaccuracy, and shallower nulls. Built-in on-chip calibrations require additional hardware design despite high accuracy. Rotating-Element Electric-Field Vector (REV)-based methods have relatively large errors and require too many measurements despite being practical by taking only amplitude measurements. Orthogonal code-based methods require complex field measurements despite having a reduced number of measurements. We propose a single-shot, array-level calibration method that only relies on amplitude measurements and experimentally validate the performance with a 8x8 array at 30 GHz.
+
+- Xiaowen Tian, S. Venkatesh, “Millimeter-wave phased array calibration with near-field amplitude-only measurements,” in *Proc. IEEE Array*, Boston, MA, Oct. 2026.
+
 ### Variable Beamwidth Near Field Beamforming in mmWave Systems
 
-Previous approaches to operate in the near field provide very focused beams, which can only illuminate a small region around the target user. Therefore, this near field beamfocusing configuration is sensitive to location inaccuracy. It also increases the initial access time. We proposed a beamforming technique that has variable beamwidth by mapping the RIS elements to a tunable spherical surface and tuning the size and center of the surface.
+Previous approaches to operate in the near field provide very focused beams, which can only illuminate a small region around the target user. Therefore, this near field beamfocusing configuration is sensitive to location inaccuracy. It also increases the initial access time. We propose a beamforming technique that has variable beamwidth by mapping the RIS elements to a tunable spherical surface and tuning the size and center of the surface.
 
 - Xiaowen Tian, N. Gonzalez-Prelcic, and R. W. Heath Jr, “[Variable beamwidth near field codebook design for communications aided by a large scale RIS](https://ieeexplore-ieee-org.prox.lib.ncsu.edu/document/10437101),” in *Proc. IEEE GLOBECOM*, Kuala Lumpur, Malaysia, Dec. 2023.
 
 ### Machine Learning-Assisted Codebook Design for Channel Estimation
 
-Minimum mean-square error (MMSE) filters are applied for channel estimation which requires second-order statistics. However, they are not easy to acquire in practice. We found that auto-correlation functions (ACFs) are related to MMSE filters and channel parameters. Thus, with the assumption that similar channels can use one representative codeword for channel estimation, we proposed to design such a codebook to reduce the complexity during channel estimation.
+Minimum mean-square error (MMSE) filters are applied for channel estimation, which requires second-order statistics. However, they are not easy to acquire in practice. We found that autocorrelation functions (ACFs) are related to MMSE filters and channel parameters. Thus, with the assumption that similar channels can use one representative codeword for channel estimation, we proposed to design such a codebook to reduce the complexity during channel estimation.
 
 - Xiaowen Tian, Y. Hu, Y. Li, T. Wang, and J. Zhang, “[Machine learning-assisted codebook design for channel estimation weights](https://ieeexplore-ieee-org.prox.lib.ncsu.edu/document/10283641),” in *Proc. IEEE ICC Workshops*, Rome, Italy, May 2023.
 
@@ -43,12 +49,12 @@ With sub-THz frequencies, the links are easy to be blocked. The reconfigurable i
 
 Millimeter wave channels are sparse, but Alice, Bob, and Eve may share some common scatters, which makes eavesdropping easier. However, such a special structure in the channel can also be exploited to null the signals transmitted through those common scatters to avoid eavesdropping.
 
-- Xiaowen Tian, Z. Wang, M. Li, and Q. Liu, “[Secure hybrid beamformings design in mmWave MIMO wiretap systems](https://ieeexplore.ieee.org/document/8758418),” *IEEE Systems Journal*, vol. 14, no. 1, pp. 548-559, Mar. 2020.
+- Xiaowen Tian, Z. Wang, M. Li, and Q. Liu, “[Secure hybrid beamformers design in mmWave MIMO wiretap systems](https://ieeexplore.ieee.org/document/8758418),” *IEEE Systems Journal*, vol. 14, no. 1, pp. 548-559, Mar. 2020.
 
 
 ### Pilot Spoofing Detection and Secure Transmission
 
-When Eve sends the same pilots as Bob during uplink transmission, Alice can be spoofed to transmit confidential signals to Eve during downlink transmission. In this project, we proposed a Random Training-Assisted (RTA) algorithm, which exploits the randomness of the pilots to detect the existence of Eve. In addition, we proposed enhancement transmission strategies for both detection results of present/absent Eve.
+When Eve sends the same pilots as Bob during uplink transmission, Alice can be spoofed to transmit confidential signals to Eve during downlink transmission. In this project, we proposed a Random Training-Assisted (RTA) algorithm, which exploits the randomness of the pilots to detect the existence of Eve. In addition, we proposed enhanced transmission strategies for both detection results of present/absent Eve.
 
 - Xiaowen Tian, M. Li, and Q. Liu, “[Random-training-assisted pilot spoofing detection and security enhancement](https://ieeexplore-ieee-org.prox.lib.ncsu.edu/document/8078174),” *IEEE Access*, vol. 5, pp. 27384-27399, Oct. 2017.
 

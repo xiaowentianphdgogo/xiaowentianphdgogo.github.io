@@ -22,7 +22,7 @@ redirect_from:
 ## Service to Scientific Community
 
 - Reviewer for IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, IEEE Signal Processing Letters, IEEE Wireless Communications Letters, IEEE Communications Letters, IEEE System Journal, IEEE Access, and IEEE Communications Magazine.
-- Reviewer for WCNC, ICC, Globecom, Asilomar, and Infocom.
+- Reviewer for WCNC, ICC, Globecom, Asilomar, VTC, and Infocom.
 
 
 ## Awards

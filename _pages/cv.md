@@ -17,7 +17,7 @@ redirect_from:
 
 ## Internship
 
-- Research Intern in Samsung Research America, Plano, TX, May 2024 - Aug. 2024, May 2023 - Aug. 2023, May 2022 - Aug. 2022.
+- Research Intern at Samsung Research America, Plano, TX, May - Aug. 2022, 2023, 2024.
 
 ## Service to Scientific Community
 
@@ -27,8 +27,8 @@ redirect_from:
 
 ## Awards
 
-- 2017 National Scholarship of graduate student.
-- 2017 excellent graduate student of Dalian University of Technology.
+- 2017 National Scholarship for graduate students.
+- 2017 Excellent graduate student at Dalian University of Technology.
 
 
-#### The full PDF version of my CV can be found [here](https://drive.google.com/file/d/1ZdlsKQb439SOwmyGEdhGvDxLaKyVXFrZ/view?usp=share_link).
+#### The full PDF version of my CV can be found [here](https://drive.google.com/file/d/1OwWeAdgpbF0xTfnJr7qM7Sx6AmUDFf7e/view?usp=drive_link).

@@ -11,7 +11,7 @@ redirect_from:
 ## Education
 
 - Ph.D. in Electrical Engineering, North Carolina State University, Raleigh, NC, 2021 - Present.
-- Ph.D. in Electrical Engineering, University at Buffalo, Buffalo, NY, 2019 - 2021.
+- Ph.D. in Electrical Engineering, University at Buffalo, Buffalo, NY, 2019 - 2021 (transferred to NC State).
 - M.S. in Information and Communication Engineering, Dalian University of Technology, Dalian, China, 2016 - 2019.
 - B.S. in Electronics and Information Engineering (English Intensive), Dalian University of Technology, Dalian, China, 2012 - 2016.
 
